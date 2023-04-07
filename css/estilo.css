@@ -1,0 +1,136 @@
+
+body{
+    background-color: white;
+    font-family: "Calibri", Times, serif;
+
+}
+
+#container{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+
+}
+
+#topo-site{
+    width: 960px;
+    height:194px;
+    float: left;
+    background-color: #206CA6;
+
+}
+
+#logo{
+    width: 300px;
+    height: 77px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+    }
+
+#rede-sociais{
+    width: 116px;
+    height: 50px;
+    float: right;
+    margin-right: 40px;
+    margin-top: 70px;
+    
+
+}
+
+#menu-site{
+    width: 960px;
+    height: 40px;
+    float:left;
+    margin-top: 40px;
+    background-color: #022a4f;
+
+}
+
+#slide{
+    margin-top: 10px;
+    float: left;
+
+}
+
+#rodape-site{
+    width: 960px;
+    height:300px;
+    float: left;
+    background-color:#022a4f;
+    margin-top: 10px;
+
+}
+
+.caixa-conteudo{
+    width: 281px;
+    height: 206px;
+    float: left;
+    margin-left: 17px;
+    padding-left: 17px
+    margin-top: 40px;
+    
+}
+.caixa-conteudo ul {
+    list-style: none;
+    float: left;
+    color:white;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.caixa-conteudo ul li{
+    margin-top: 10px;
+}
+ .caixa-conteudo li a{
+     text-decoration: none;
+     margin-right: 10px;
+     color: white;
+ }
+#autor-site{
+    width: 960px;
+    height: 40px;
+    background-color: #206CA6;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
+
+.menu_simple {
+    width: 960px;
+    height: 40px;
+    float:left;
+    margin-top: 20px;
+    background-color: black;
+
+}
+
+.menu_simple ul {
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+.menu_simple ul li {
+    display: inline;
+}
+
+.menu_simple ul li a {
+    float: left;
+    text-decoration: none;
+    color: white;
+    padding: 10.5px 11px;
+    margin-left: 100px;
+    background-color: #022a4f;
+}
+
+.menu_simple ul li a:visited{
+    color: white;
+    
+}
+.menu_simple ul li a:hover{
+    color: white;
+    background-color: #206ca6;
+}
